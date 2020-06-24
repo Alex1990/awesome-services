@@ -17,14 +17,15 @@ A collection of the services, including IaaS, PaaS, SaaS.
 * Domain
 * Office
 * Email
-* Font
-* Form
+* Fonts
+* Forms
 * Monitoring and Alert
 * Message
 * Payment
-* Project Management
 * Search
+* Security
 * Test
+* Todos and Collaboration
 * Translation
 * Misc
 
@@ -147,6 +148,87 @@ Some factors:
 * [Mailchimp](https://mailchimp.com/)
 * [Mailgun](https://www.mailgun.com/homepage/)
 * [SendGrid](https://sendgrid.com/)
+
+## Fonts
+
+* [Adobe Fonts](https://fonts.adobe.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [FontSpring](https://www.fontspring.com/)
+
+## Forms
+
+* [Basin](https://usebasin.com/)
+* [Form2Chat](https://form2chat.io/)
+* [FormBackend](https://www.formbackend.com/)
+* [Formcarry](https://formcarry.com/)
+* [Formspree](https://formspree.io/)
+* [Formstack](https://www.formstack.com/)
+* [FormSubmit](https://formsubmit.co/)
+* [Getform](https://getform.io/)
+* [Google Forms](https://www.google.com/forms/)
+* [Kwes Forms](https://kwes.io/)
+* [Netlify Forms](https://www.netlify.com/products/forms/)
+* [Wufoo Forms](https://www.wufoo.com/)
+* [Pageclip](https://pageclip.co/)
+
+## Monitoring and Alert
+
+8 [Airbrake](https://airbrake.io/)
+* [Bugsnag](https://www.bugsnag.com/)
+* [Datadog](https://www.datadoghq.com/)
+* [Grafana](https://grafana.com/)
+* [Netdata](https://www.netdata.cloud/)
+* [Prometheus](https://prometheus.io/)
+* [Raygun](https://raygun.com/)
+* [Rollbar](https://rollbar.com/)
+* [Sentry](https://sentry.io/)
+
+## Message
+
+* [ClickSend](https://www.clicksend.com/)
+* [Infobip](https://www.infobip.com/)
+* [MessageBird](https://messagebird.com/)
+* [TeleSign](https://www.telesign.com/)
+* [Telnyx](https://telnyx.com/)
+* [Vonage](https://www.vonage.com/)
+* [Twilio](https://www.twilio.com/)
+
+## Payment
+
+* [Adyen](https://www.adyen.com/)
+* [Alipay](https://intl.alipay.com/docs/)
+* [Braintree](https://www.braintreepayments.com/)
+* [Google Pay](https://developers.google.com/pay/api)
+* [PayPal](https://developer.paypal.com/docs/api/overview/)
+* [Square](https://squareup.com/us/en/payments)
+* [Stripe](https://stripe.com/)
+
+## Search
+
+* [Algolia](https://www.algolia.com/)
+* [Amazon CloudSearch](https://www.algolia.com/)
+
+## Security
+
+* [Github Dependabot](https://help.github.com/en/github/administering-a-repository/about-github-dependabot)
+* [LGTM](https://lgtm.com/)
+* [Snyk](https://snyk.io/)
+* [SonarQube](https://www.sonarqube.org/)
+* [Sonatype](https://ossindex.sonatype.org/)
+* [WhiteSource](https://www.whitesourcesoftware.com/)
+
+## Todos and Collaboration
+
+* [Asana](https://asana.com/)
+* [DingTalk](https://www.dingtalk.com/)
+* [Jira](https://www.atlassian.com/software/jira)
+* [Microsoft Planner](https://tasks.office.com/)
+* [Monday](https://monday.com/)
+* [Notion](https://www.notion.so/)
+* [Todoist](https://todoist.com/)
+* [Trello](https://trello.com/)
+* [Slack](https://slack.com/)
+* [Zoom](https://zoom.us/)
 
 ## Related
 
