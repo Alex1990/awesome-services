@@ -217,6 +217,18 @@ Some factors:
 * [Sonatype](https://ossindex.sonatype.org/)
 * [WhiteSource](https://www.whitesourcesoftware.com/)
 
+## Test
+
+* [Applitools](https://applitools.com/)
+* [BitBar](https://bitbar.com/)
+* [BrowserStack](https://www.browserstack.com/)
+* [CrossBrowserTesting](https://crossbrowsertesting.com/)
+* [Cypress](https://www.cypress.io/)
+* [Experitest](https://experitest.com/)
+* [Ghost Inspector](https://ghostinspector.com/)
+* [LambdaTest](https://www.lambdatest.com/)
+* [SourceLabs](https://saucelabs.com/platform)
+
 ## Todos and Collaboration
 
 * [Asana](https://asana.com/)
@@ -230,6 +242,14 @@ Some factors:
 * [Slack](https://slack.com/)
 * [Zoom](https://zoom.us/)
 
+## Translation
+
+* [Google Cloud Translation](https://cloud.google.com/translate/docs)
+* [Microsoft Translator](https://azure.microsoft.com/en-us/services/cognitive-services/translator/)
+* [Yandex Translate](https://translate.yandex.com/developers)
+
 ## Related
 
 * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [RapidAPI](https://rapidapi.com/)
+
