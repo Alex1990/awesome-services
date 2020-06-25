@@ -12,18 +12,22 @@ A collection of the services, including IaaS, PaaS, SaaS.
 * Chat
 * CI and CD
 * CMS
+* Compute Services
 * CRM
+* Databases
 * Design
 * Domain
 * Office
 * Email
 * Fonts
 * Forms
+* Location and Maps
 * Monitoring and Alert
 * Message
 * Payment
 * Search
 * Security
+* Storage
 * Test
 * Todos and Collaboration
 * Translation
@@ -95,6 +99,17 @@ Some factors:
 * [Wix](https://www.wix.com/)
 * [WordPress](https://wordpress.org/)
 
+## Compute services
+
+* [Alibaba Cloud Computing](https://www.alibabacloud.com/)
+* [AWS Compute services](https://aws.amazon.com/products/compute/)
+* [Azure Compute](https://azure.microsoft.com/en-us/product-categories/compute/)
+* [DigitalOcean](https://www.digitalocean.com/)
+* [Google Cloud Compute](https://cloud.google.com/products/compute)
+* [Linode](https://www.linode.com/)
+* [Tencent Cloud Compute](https://intl.cloud.tencent.com/)
+* [Vultr](https://www.vultr.com/)
+
 ## CRM
 
 * [Agile CRM](https://www.agilecrm.com/)
@@ -112,6 +127,15 @@ Some factors:
 * [Salesforce](https://www.salesforce.com/)
 * [Zendesk Sell](https://www.zendesk.com/sell/)
 * [Zoho](https://www.zoho.com/crm/)
+
+## Databases
+
+* [Alibaba Cloud Databases](https://www.alibabacloud.com/product/databases)
+* [AWS Databases](https://aws.amazon.com/products/databases/)
+* [Azure Databases](https://azure.microsoft.com/en-us/product-categories/databases/)
+* [DigitalOcean Databases](https://www.digitalocean.com/products/managed-databases/)
+* [Google Cloud Databases](https://cloud.google.com/products/databases)
+* [Tencent Cloud Databases](https://intl.cloud.tencent.com/product/cdb)
 
 ## Design
 
@@ -171,6 +195,11 @@ Some factors:
 * [Wufoo Forms](https://www.wufoo.com/)
 * [Pageclip](https://pageclip.co/)
 
+## Location and Maps
+
+* [Apple Maps](https://developer.apple.com/maps/)
+* [Google Maps](https://developers.google.com/maps/documentation)
+
 ## Monitoring and Alert
 
 8 [Airbrake](https://airbrake.io/)
@@ -216,6 +245,16 @@ Some factors:
 * [SonarQube](https://www.sonarqube.org/)
 * [Sonatype](https://ossindex.sonatype.org/)
 * [WhiteSource](https://www.whitesourcesoftware.com/)
+
+## Storage
+
+* [Alibaba Cloud OSS](https://www.alibabacloud.com/product/oss)
+* [AWS S3](https://aws.amazon.com/s3/)
+* [Azure Blob](https://azure.microsoft.com/en-us/services/storage/blobs/)
+* [DigitalOcean Spaces](https://www.digitalocean.com/products/spaces/)
+* [Google Cloud Storage](https://cloud.google.com/storage)
+* [Linode Storage](https://www.linode.com/products/object-storage/)
+* [Vultr Storage](https://www.vultr.com/products/object-storage/)
 
 ## Test
 
