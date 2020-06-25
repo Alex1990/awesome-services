@@ -8,6 +8,7 @@ A collection of the services, including IaaS, PaaS, SaaS.
 
 * [Cloud Computing Platform](#cloud-computing-platform)
 * [Analytics](#analytics)
+* [API Management](#api-management)
 * [CDN](#cdn)
 * [Chat](#chat)
 * [CI and CD](#ci-and-cd)
@@ -16,7 +17,8 @@ A collection of the services, including IaaS, PaaS, SaaS.
 * [CRM](#crm)
 * [Databases](#databases)
 * [Design](#design)
-* [Domain](#domain)
+* [Documentation](#documentation)
+* [Domain and DNS](#domain-and-dns)
 * [Office](#office)
 * [Email](#email)
 * [Fonts](#fonts)
@@ -27,6 +29,7 @@ A collection of the services, including IaaS, PaaS, SaaS.
 * [Payment](#payment)
 * [Search](#search)
 * [Security](#security)
+* [Source Code Management](#source-code-management)
 * [Storage](#storage)
 * [Test](#test)
 * [Todos and Collaboration](#todos-and-collaboration)
@@ -52,6 +55,14 @@ Some factors:
 
 * [Google Analytics](https://analytics.google.com/)
 * [Segment](https://segment.com/)
+
+## API Management
+
+* [Apigee](https://cloud.google.com/apigee/api-management)
+* [Google Cloud OpenAPI](https://cloud.google.com/endpoints/docs/openapi)
+* [Postman](https://www.postman.com/)
+* [Postwoman](https://postwoman.io/)
+* [Swagger](https://swagger.io/)
 
 ## CDN
 
@@ -154,10 +165,27 @@ Some factors:
 * [Sketch](https://www.sketch.com/)
 * [webflow](https://webflow.com/)
 
-## Domain
+## Documentation
 
+* [Docsify](https://docsify.js.org/)
+* [Docusaurus](https://docusaurus.io/)
+* [Docz](https://www.docz.site/)
+* [Gatsby](https://www.gatsbyjs.org/)
+* [GitBook](https://www.gitbook.com/)
+* [Jekyll](https://jekyllrb.com/)
+* [Read the Docs](https://readthedocs.org/)
+* [VuePress](https://vuepress.vuejs.org/)
+* [Slate](https://github.com/slatedocs/slate)
+
+## Domain and DNS
+
+* [Alibaba Cloud DNS](https://www.alibabacloud.com/product/dns)
+* [AWS Route 53](https://aws.amazon.com/route53/)
+* [Azure DNS](https://azure.microsoft.com/en-us/services/dns/)
 * [Bluehost](https://www.bluehost.com/)
-* [Godaddy](godaddy.com)
+* [Cloudflare](https://www.cloudflare.com/dns/)
+* [Godaddy](https://godaddy.com)
+* [Google Cloud DNS](https://cloud.google.com/dns)
 * [Namecheap](https://www.namecheap.com/)
 
 ## Office
@@ -245,6 +273,12 @@ Some factors:
 * [SonarQube](https://www.sonarqube.org/)
 * [Sonatype](https://ossindex.sonatype.org/)
 * [WhiteSource](https://www.whitesourcesoftware.com/)
+
+## Source Code Management
+
+* [Bitbucket](https://bitbucket.org/)
+* [Github](https://github.com/)
+* [Gitlab](https://about.gitlab.com/)
 
 ## Storage
 
