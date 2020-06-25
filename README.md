@@ -6,32 +6,32 @@ A collection of the services, including IaaS, PaaS, SaaS.
 
 **TOC**
 
-* Cloud Computing Platform
-* Analytics
-* CDN
-* Chat
-* CI and CD
-* CMS
-* Compute Services
-* CRM
-* Databases
-* Design
-* Domain
-* Office
-* Email
-* Fonts
-* Forms
-* Location and Maps
-* Monitoring and Alert
-* Message
-* Payment
-* Search
-* Security
-* Storage
-* Test
-* Todos and Collaboration
-* Translation
-* Misc
+* [Cloud Computing Platform](#cloud-computing-platform)
+* [Analytics](#analytics)
+* [CDN](#cdn)
+* [Chat](#chat)
+* [CI and CD](#ci-and-cd)
+* [CMS](#cms)
+* [Compute Services](#compute-services)
+* [CRM](#crm)
+* [Databases](#databases)
+* [Design](#design)
+* [Domain](#domain)
+* [Office](#office)
+* [Email](#email)
+* [Fonts](#fonts)
+* [Forms](#forms)
+* [Location and Maps](#location-and-maps)
+* [Monitoring and Alert](#monitoring-and-alert)
+* [Message](#message)
+* [Payment](#payment)
+* [Search](#search)
+* [Security](#security)
+* [Storage](#storage)
+* [Test](#test)
+* [Todos and Collaboration](#todos-and-collaboration)
+* [Translation](#translation)
+* [Misc](#misc)
 
 Some factors:
 
@@ -202,7 +202,7 @@ Some factors:
 
 ## Monitoring and Alert
 
-8 [Airbrake](https://airbrake.io/)
+* [Airbrake](https://airbrake.io/)
 * [Bugsnag](https://www.bugsnag.com/)
 * [Datadog](https://www.datadoghq.com/)
 * [Grafana](https://grafana.com/)
