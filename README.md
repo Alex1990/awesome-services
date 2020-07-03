@@ -9,6 +9,7 @@ A collection of the services which accelerate your application construction.
 * [Cloud Computing Platform](#cloud-computing-platform)
 * [Analytics](#analytics)
 * [API Management](#api-management)
+* [App Builder](#app-builder)
 * [CDN](#cdn)
 * [Chat](#chat)
 * [CI and CD](#ci-and-cd)
@@ -18,6 +19,10 @@ A collection of the services which accelerate your application construction.
 * [CRM](#crm)
 * [Databases](#databases)
 * [Design](#design)
+  + [Graphic](#graphic)
+  + [Icon](#icon)
+  + [Prototype](#prototype)
+  + [UI / UX](#ui--ux)
 * [Documentation](#documentation)
 * [Domain and DNS](#domain-and-dns)
 * [Office](#office)
@@ -62,6 +67,12 @@ The top global cloud computing platforms.
 * [Postman](https://www.postman.com/) - Simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
 * [Postwoman](https://postwoman.io/) - A free, fast and beautiful API request builder (web alternative to Postman) used by 60k+ developers.
 * [Swagger](https://swagger.io/) - Simplify API development for users, teams, and enterprises with the Swagger open source and professional toolset.
+
+## App Builder
+
+* [Atomic](https://www.atomic.io/) - Atomic is a cloud platform for surfacing actionable functionality inside your apps in a much faster and more effective way.
+Prototypes in Minutes.
+* [webflow](https://webflow.com/) - Build better business websites, faster. Without coding.
 
 ## CDN
 
@@ -160,22 +171,37 @@ management software.
 
 ## Design
 
-* [Adobe XD](https://www.adobe.com/products/xd.html) - Create and share designs for websites, mobile apps, voice interfaces, games, and more.
-* [Atomic](https://www.atomic.io/) - Atomic is a cloud platform for surfacing actionable functionality inside your apps in a much faster and more effective way.
+### Graphic
+
+* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Available for Windows, Mac and iPad, Affinity Designer is an award-winning vector graphics software setting the new industry standard in the world of design.
+* [CorelDRAW](https://www.coreldraw.com/) - Design on virtually any device with professional vector illustration, layout, photo editing, and typography tools.
+* [Illustrator](https://www.adobe.com/products/illustrator.html) - The industry-standard vector graphics software is used by millions of designers and artists to create everything from gorgeous web and mobile graphics to logos, icons, book illustrations, product packaging, and billboards.
+* [Photoshop](https://www.adobe.com/products/photoshop.html) - The world’s best imaging and graphic design software is at the core of just about every creative project, from photo editing and compositing to digital painting, animation, and graphic design. And now you can harness the power of Photoshop across desktop and iPad to create wherever inspiration strikes.
+* [Procreate](https://procreate.art/) - Procreate has everything you need to create expressive sketches, rich paintings, gorgeous illustrations and beautiful animations.
+
+### Icon
+
+* [Flaticon](https://www.flaticon.com/) - The largest database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
+* [FontAwesome](https://fontawesome.com/) - Get vector icons and social logos on your website with Font Awesome, the web's most popular icon set and toolkit.
+* [Iconfinder](https://www.iconfinder.com/) - Iconfinder is the leading search engine and market place for vector icons in SVG, PNG, CSH and AI format.
+
+### Prototype
+
 * [Axure](https://www.axure.com/) - Axure RP 9 is the most powerful way to plan, prototype, and hand off to developers, all without code.
 * [balsamiq](https://balsamiq.com/) - Quick and easy wireframing tool.
-* [Figma](https://www.figma.com/) - Figma helps teams create, test, and ship better designs from start to finish.
 * [FluidUI](https://www.fluidui.com/) - Create Web and Mobile
-Prototypes in Minutes.
 * [Framer](https://www.framer.com/) - Framer is the best prototyping tool for teams.
 * [JustInMind](https://www.justinmind.com/) - All-in-one prototyping tool for web and mobile apps.
-* [Invision](https://www.invisionapp.com/) - Easy Prototyping for website
-and mobile app designs.
+* [Invision](https://www.invisionapp.com/) - Easy Prototyping for website and mobile app designs.
 * [MockFlow](https://www.mockflow.com/) - Super-easy wireframing software to quickly draw and collaborate on UI designs.
 * [Mockplus](https://www.mockplus.com/) - The most robust all-in-one product design platform for prototyping, collaboration, and design systems.
+
+### UI / UX
+
+* [Adobe XD](https://www.adobe.com/products/xd.html) - Create and share designs for websites, mobile apps, voice interfaces, games, and more.
+* [Figma](https://www.figma.com/) - Figma helps teams create, test, and ship better designs from start to finish.
 * [Origami](https://origami.design/) - A new tool for designing modern interfaces, built and used by designers at Facebook.
 * [Sketch](https://www.sketch.com/) - Create, prototype, collaborate, and bring your ideas to life with the design platform used by over one million people — from freelancers, to the world’s largest teams.
-* [webflow](https://webflow.com/) - Build better business websites, faster. Without coding.
 
 ## Documentation
 
