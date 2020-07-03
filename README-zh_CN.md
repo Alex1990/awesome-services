@@ -2,7 +2,7 @@
 
 A collection of the services which participate in application construction.
 
-**Goal**: Help application constructors choosing a service.
+**[English](./README.md)** | **简体中文**
 
 **Table of Contents**
 

@@ -1,8 +1,8 @@
 # awesome-service
 
-A collection of the services which participate in application construction.
+A collection of the services which accelerate your application construction.
 
-**Goal**: Help application constructors choosing a service.
+**English** | **[简体中文](./README-zh_CN.md)**
 
 **Table of Contents**
 
