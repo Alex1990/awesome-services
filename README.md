@@ -189,13 +189,8 @@ Engage customers with multiple channels, such as Call Center, Forum, Help Center
 ### Ticket System
 
 * [HubSpot Service](https://www.hubspot.com/products/service) - HubSpot's customer service software makes supporting customers easy. Help your customers on the channels they prefer, while driving efficiency for your team.
-* [容联·七陌](https://www.7moor.com/worksheet) - 建立企业标准化内部服务协作流程，让你的售后服务总能快人一步。
 * [Sendbird Desk](https://sendbird.com/features/customer-support) - Provide on-demand support right within your mobile experience. Resolve issues faster. Keep customers informed and engaged at all times.
-* [UDesk](http://www.udesk.cn/feature_worksheet.html) - 工单工作流，让团队高效的完成任务，让企业快速的提升效率。
-* [网易七鱼](https://qiyukf.com/product/worksheet) - 网易七鱼工单系统改善客服流程、提高服务满意度利器，工单管理、分配、流转可自定义，借助工单智能分配业务流转路径，随时可查询业务处理进度。
-* [逸创·云客服](https://www.kf5.com/ticket.html) - 客服工单系统作为逸创云客服支撑企业售后服务最重要的一环，灵活自定义可伸缩，工单分配、转派、变更、提醒、业务流和SLA等随心设置，还能定时完成任务，建立服务等级标准。
 * [Zendesk Support](https://www.zendesk.com/support/) - Zendesk Support is a beautifully simple system for tracking, prioritizing, and solving customer support tickets.
-* [智齿科技](https://www.sobot.com/workorder.html) - 智齿客服工单系统，多重自定义字段，自由协作流转，满足企业个性化工单需求，全渠道工单发起，工单推进灵活流转，让企业内外部沟通协作更顺畅。
 
 ## Databases
 
