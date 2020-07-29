@@ -365,6 +365,16 @@ teams discover, triage, and prioritize errors in real-time.
 
 ### Image
 
+* [Camera360 SDK](http://sdk.camera360.com/) - 实时影像美化解决方案，服务超过全球7.5亿用户的
+Camera360核心影像处理引擎。
+* [fotor懒设计SDK](https://sdk.fotor.com.cn/index.html) - 简单对接，即可无缝嵌入专业全能的平面设计、图片编辑及印品设计功能。
+* [imgIX](https://www.imgix.com/) - imgix transforms, optimizes, and intelligently caches your entire image library for fast websites and apps using simple and robust URL parameters.
+* [libpixel](https://www.libpixel.com/) - Libpixel is ready to help with image processing and delivery. From our speed obsessive architecture and developer-friendly API, our solution offers a unique and powerful approach to image processing.
+* [PhotoEditor SDK](https://photoeditorsdk.com/) - Add comprehensive image editing tools to your HTML5, iOS and Android app - within minutes.
+* [Pixel SDK](https://www.pixelsdk.com/) - A fully customizable, modern, image and video editing framework written in Swift.
+* [Removebg](https://www.remove.bg/) - Remove image background 100% automatically.
+* [Thumbor](http://thumbor.org/) - Open-source smart on-demand image cropping, resizing and filters.
+
 ### Video
 
 * [阿里云媒体处理](https://www.aliyun.com/product/mts) - 基于海量数据深度学习，对媒体的内容、文字、语音、场景多模态分析，实现智能审核、内容理解、智能编辑。

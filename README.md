@@ -314,6 +314,13 @@ Including image, audio, video and AR/VR services.
 
 ### Image
 
+* [imgIX](https://www.imgix.com/) - imgix transforms, optimizes, and intelligently caches your entire image library for fast websites and apps using simple and robust URL parameters.
+* [libpixel](https://www.libpixel.com/) - Libpixel is ready to help with image processing and delivery. From our speed obsessive architecture and developer-friendly API, our solution offers a unique and powerful approach to image processing.
+* [PhotoEditor SDK](https://photoeditorsdk.com/) - Add comprehensive image editing tools to your HTML5, iOS and Android app - within minutes.
+* [Pixel SDK](https://www.pixelsdk.com/) - A fully customizable, modern, image and video editing framework written in Swift.
+* [Removebg](https://www.remove.bg/) - Remove image background 100% automatically.
+* [Thumbor](http://thumbor.org/) - Open-source smart on-demand image cropping, resizing and filters.
+
 ### Video
 
 * [Alibaba Cloud Media](https://www.alibabacloud.com/solutions/multimedia) - An array of powerful multimedia services providing massive cloud storage and efficient content delivery for a smooth and rich user experience.
