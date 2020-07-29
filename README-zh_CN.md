@@ -35,6 +35,10 @@ A collection of the services which participate in application construction.
 * [Forms](#forms)
 * [Location and Maps](#location-and-maps)
 * [Monitoring and Alert](#monitoring-and-alert)
+* [Multimedia](#multimedia)
+  + [Audio](#audio)
+  + [Image](#image)
+  + [Video](#video)
 * [Office](#office)
 * [Payment](#payment)
 * [Push](#push)
@@ -353,6 +357,29 @@ and developers.
 * [Sentry](https://sentry.io/) - Sentry provides self-hosted and cloud-based error monitoring that helps all software
 teams discover, triage, and prioritize errors in real-time.
 
+## Multimedia
+
+包括图片、音频、视频和 AR/VR 等服务。
+
+### Audio
+
+### Image
+
+### Video
+
+* [阿里云媒体处理](https://www.aliyun.com/product/mts) - 基于海量数据深度学习，对媒体的内容、文字、语音、场景多模态分析，实现智能审核、内容理解、智能编辑。
+* [AWS Media Services](https://aws.amazon.com/media-services/) - AWS Media Services make it fast and easy to produce, process, and deliver broadcast and over-the-top video. These pay-as-you-go services and appliance products offer the video infrastructure you need to deliver great viewing experiences to any screen.
+* [Azure Media Services](https://azure.microsoft.com/en-us/pricing/details/media-services/) - Build and deploy highly-available, scalable, end-to-end media solutions.
+* [Google Cloud Media and Entertainment](https://cloud.google.com/solutions/media-entertainment) - Modernize your content production and distribution operations while transforming audience experiences across the world.
+* [JWPLAYER](https://www.jwplayer.com/) - Grow your business with JW Player's flexible platform of video services, powered by billions of signals from across our vast network.
+* [美摄科技](https://www.meishesdk.com/) - 视频拍摄剪辑、云剪辑、H5小程序方案、智能剪辑等产品。
+* [MUX](https://mux.com/) - Mux Video is an API-first platform, powered by data and designed by video experts to make beautiful video possible for every development team.
+* [SolveigMultimedia](https://www.solveigmm.com/) - Lightweight software for smart and lossless video editing, screen capturing, and video debugging.
+* [腾讯云音视频](https://cloud.tencent.com/solution/video) - 提供一站式视频解决方案，包括点播直播、实时视频通话、短视频等视频服务，广泛应用于在线视频、电商、游戏直播、在线教育等场景。
+* [THEO](https://www.theoplayer.com/) - Universal Video Player solution, enables online media companies and enterprises worldwide to quickly bring a consistent video playback experience across any device or platform through its feature-rich SDKs and a wide variety of video ecosystem pre-integrations.
+* [Vimeo](https://vimeo.com/) - Including video player, video editor, video monetization, live streaming solutions.
+* [Wistia](https://wistia.com/) - Provide video create, present and grow services.
+
 ## Office
 
 * [Atlassion Confluence](https://www.atlassian.com/software/confluence) - Confluence is your team workspace where knowledge and collaboration meet to achieve great things.
@@ -424,7 +451,7 @@ teams discover, triage, and prioritize errors in real-time.
 ## Test
 
 * [Applitools](https://applitools.com/) - Increase quality, accelerate delivery and reduce cost with the world’s most intelligent test automation platform.
-* [BitBar](https://bitbar.com/) - The most flexible cloud-based mobile app testing solution.
+* [BitBar](https://bitbar.com/) - The most flexible cloud-based mobile app testing solution no
 * [BrowserStack](https://www.browserstack.com/) - Give your users a seamless experience by testing on 2000+ real devices and browsers.
 * [CrossBrowserTesting](https://crossbrowsertesting.com/) - Easily run manual, visual, and selenium tests in the cloud on 2050+ real desktop and mobile browsers.
 * [Cypress](https://www.cypress.io/) - Fast, easy and reliable testing for anything that runs in a browser.

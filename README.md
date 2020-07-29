@@ -35,6 +35,10 @@ A collection of the services which accelerate your application construction.
 * [Forms](#forms)
 * [Location and Maps](#location-and-maps)
 * [Monitoring and Alert](#monitoring-and-alert)
+* [Multimedia](#multimedia)
+  + [Audio](#audio)
+  + [Image](#image)
+  + [Video](#video)
 * [Office](#office)
 * [Payment](#payment)
 * [Push](#push)
@@ -301,6 +305,28 @@ and developers.
 * [Rollbar](https://rollbar.com/) - With Rollbar, you can feel safe knowing every error is reported in real-time.
 * [Sentry](https://sentry.io/) - Sentry provides self-hosted and cloud-based error monitoring that helps all software
 teams discover, triage, and prioritize errors in real-time.
+
+## Multimedia
+
+Including image, audio, video and AR/VR services.
+
+### Audio
+
+### Image
+
+### Video
+
+* [Alibaba Cloud Media](https://www.alibabacloud.com/solutions/multimedia) - An array of powerful multimedia services providing massive cloud storage and efficient content delivery for a smooth and rich user experience.
+* [AWS Media Services](https://aws.amazon.com/media-services/) - AWS Media Services make it fast and easy to produce, process, and deliver broadcast and over-the-top video. These pay-as-you-go services and appliance products offer the video infrastructure you need to deliver great viewing experiences to any screen.
+* [Azure Media Services](https://azure.microsoft.com/en-us/pricing/details/media-services/) - Build and deploy highly-available, scalable, end-to-end media solutions.
+* [Google Cloud Media and Entertainment](https://cloud.google.com/solutions/media-entertainment) - Modernize your content production and distribution operations while transforming audience experiences across the world.
+* [JWPLAYER](https://www.jwplayer.com/) - Grow your business with JW Player's flexible platform of video services, powered by billions of signals from across our vast network.
+* [MUX](https://mux.com/) - Mux Video is an API-first platform, powered by data and designed by video experts to make beautiful video possible for every development team.
+* [SolveigMultimedia](https://www.solveigmm.com/) - Lightweight software for smart and lossless video editing, screen capturing, and video debugging.
+* [Tencent Cloud Media](https://intl.cloud.tencent.com/product/mps) - An intelligent, powerful, and versatile multimedia data processing service.
+* [THEO](https://www.theoplayer.com/) - Universal Video Player solution, enables online media companies and enterprises worldwide to quickly bring a consistent video playback experience across any device or platform through its feature-rich SDKs and a wide variety of video ecosystem pre-integrations.
+* [Vimeo](https://vimeo.com/) - Including video player, video editor, video monetization, live streaming solutions.
+* [Wistia](https://wistia.com/) - Provide video create, present and grow services.
 
 ## Office
 
